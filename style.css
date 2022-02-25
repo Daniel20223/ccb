@@ -1,0 +1,166 @@
+/* Helper Styles: Do not Delete */
+body {
+	margin:  0;
+	padding:  0;
+	font-family: inconsolata;
+	background-color: #BC7D4F;
+}
+
+h1 {
+		font-size: 40;
+		font-family: incongolata;
+}
+
+h2 {
+	font-size: 24;
+	font-family: Qiucksand: ;
+}
+
+h3 {
+	font-size: 40;
+	font-family: incongolata;
+}
+
+h4 {
+	font-size: 24;
+	font-family: inconsolata;
+}
+
+h5 {
+	font-size: 40;
+	font-family: inconsolata;
+}
+
+h6 {
+	font-size: 24;
+	font-family: inconsolata;
+}
+
+p {
+	font-family: ;
+	font-size: ;
+	color: ;
+
+}
+.nav ul{
+	list-style: none;
+	background-color:white;
+	margin: 0;
+	padding: 0;
+}
+.nav li{
+	display: inline-block;
+}
+.nav a{
+	text-decoration: none;
+	width: 100px;
+	display: block;
+	padding: 25px 20px;
+	text-transform: uppercase;
+	font-weight: bold;
+	font-family: inconsolata;
+	text-align: center;
+}
+.nav a:hover{
+	background: yellow;
+}
+
+
+
+
+
+header{
+	display: flex;
+	list-style-type: ;
+	justify-content: flex-end;
+	text-decoration: none;
+	padding: 20px 10% 20px 10%;
+}
+
+.container {
+		display: flex;
+	justify-content: space-around;
+}
+
+section {
+	width:  40%;
+}
+
+section img {
+	width:  80%;
+}
+.container{
+justify-content: flex-start;flex: center end;
+}
+
+.extradip{
+	text-align: center;
+	display: flex;
+	justify-content: space-around;
+	width: 120%;
+
+}
+.size{
+	width: 200;
+}
+
+.coffee-phtot{
+	text-align: center;
+	display: flex;
+	justify-content: space-around;
+	width: 100%;
+}
+.size{
+	wdth: 100%;
+}
+
+
+.Food-items{
+	justify-content: space-between;
+	flex-wrap:wrap;
+	display: flex;
+}
+
+.Food-items img{
+	width: 100%;
+}
+
+.Drink-items{
+	justify-content: space-between;
+	flex-wrap:wrap;
+	display: flex;
+}
+
+.Drink-items img{
+	width: 100%;
+}
+
+.tester{
+	max-width: 150px;
+}
+.Food-items .tester{
+	flex: 100%;
+}
+.prices{
+	width: 200px;
+}
+.page{
+	width: 200px;
+}
+.form-wrap{
+	justify-content: center;
+}
+form{
+width: 60%;
+font-size: 24px;
+}
+input[type=submit] {
+	font-family: 'Work Sans' sans-serif;
+	background-color:BC7D4F;
+}
+
+.form-row {
+	display: flex;
+	padding: 50px;
+	justify-content: space-around;
+}
